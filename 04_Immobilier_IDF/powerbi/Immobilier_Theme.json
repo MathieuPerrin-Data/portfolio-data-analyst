@@ -1,0 +1,67 @@
+{
+  "name": "Immobilier Premium Theme",
+  "dataColors": [
+    "#C9A84C",
+    "#4CAF88",
+    "#E94560",
+    "#3B82F6",
+    "#8B5CF6",
+    "#F59E0B",
+    "#10B981",
+    "#EF4444"
+  ],
+  "background": "#1A1A2E",
+  "foreground": "#EAEAEA",
+  "tableAccent": "#C9A84C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{"value": "Segoe UI"}],
+        "fontSize": [{"value": 10}],
+        "background": [{"color": {"solid": {"color": "#0F3460"}}}],
+        "foreground": [{"color": {"solid": {"color": "#EAEAEA"}}}]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{
+          "fontSize": 28,
+          "fontBold": true,
+          "color": {"solid": {"color": "#C9A84C"}}
+        }],
+        "label": [{
+          "fontSize": 11,
+          "color": {"solid": {"color": "#A0A0B0"}}
+        }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#C9A84C"}}
+        }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#C9A84C"}}
+        }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#C9A84C"}}
+        }]
+      }
+    },
+    "map": {
+      "*": {
+        "dataPoint": [{
+          "fill": {"solid": {"color": "#C9A84C"}}
+        }]
+      }
+    }
+  }
+}
