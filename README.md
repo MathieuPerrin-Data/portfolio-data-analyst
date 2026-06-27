@@ -20,7 +20,7 @@ Immobilier et Marché du Travail.
 | 2 | [HR Analytics Dashboard](./02_HR_Analytics) | RH | Power BI · DAX | ✅ Terminé |
 | 3 | [Sales Performance Dashboard](./03_Sales_Performance) | Commercial | Power BI · DAX · JSON | ✅ Terminé |
 | 4 | [Analyse Marché Immobilier IDF](./04_Immobilier_IDF) | Immobilier | Power BI · DAX · JSON | ✅ Terminé |
-| 5 | Analyse Marché du Travail | Data | Python · Power BI | ⬜ À venir |
+| 5 | [Analyse Marché du Travail Data](./05_Marche_Travail_Data) | Data/RH | Power BI · Python · API | ✅ Terminé |
 
 ## 🛠️ Stack Technique
 ```
